@@ -2,7 +2,7 @@
 
 Based on the nonlinear differential evolution algorithm for global optimization, this is an improved differential evolution with dynamic mutation parameters. 
 
-This is the official implementation of the non-linear differential evolution algorithm for global optimization, which is published in the following paper. 
+This is the official implementation of the non-linear differential evolution algorithm with dynamic parameters for global optimization, which has been published in the following paper. 
 
 ```
 Lin Y, Yang Y, Zhang Y. Improved differential evolution with dynamic mutation parameters[J]. Soft Computing, 2023: 1-19.
